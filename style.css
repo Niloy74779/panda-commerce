@@ -54,6 +54,7 @@ a:hover{
 .background{
     background-color: #fceae8;
 }
+
 .carousel{
     padding: 40px 60px;
     border-radius: 20px;
@@ -157,6 +158,10 @@ span {
     
 }
 
+#shoes .btn-danger:hover{
+    background-image: linear-gradient(180deg , orange, orangered);
+}
+
 /*--shoes e--*/
 
 /*--bags S--*/
@@ -180,6 +185,11 @@ span {
 #bags h2{
     padding-bottom: 10px;
 }
+
+#bags .btn-danger:hover{
+    background-image: linear-gradient(180deg , #badc57 , #2ecc72);
+}
+
 
 /*--bags E--*/
 
